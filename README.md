@@ -26,4 +26,8 @@ When satisfied with the result, export to DXF or SVG, and get it lasercut from a
 
 ## Result
 
+After setting the desired parameters, and exporting to DXF, you get something like this (for my desk, the mounting holes are off-center on purpose):
+
+<img src="images/dxf.png" width="600" />
+
 TODO
